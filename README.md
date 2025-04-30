@@ -131,8 +131,9 @@ print("y_test:", y_test.shape)
 ## OUTPUT:
 ![alt text](<images/Screenshot 2025-04-28 192028.png>)
 
+![alt text](<images/Screenshot 2025-04-30 192534.png>)
 
-![alt text](<images/Screenshot 2025-04-28 192034.png>)
+
 
 ![alt text](<images/Screenshot 2025-04-28 192039.png>)
 
@@ -146,8 +147,9 @@ print("y_test:", y_test.shape)
 
 ![alt text](<images/Screenshot 2025-04-28 192115.png>)
 
+![alt text](<images/Screenshot 2025-04-30 192546.png>)
 
-![alt text](<images/Screenshot 2025-04-28 192517.png>)
+
 
 ![alt text](<images/Screenshot 2025-04-28 192522.png>)
 
